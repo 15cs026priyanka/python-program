@@ -1,0 +1,4 @@
+Mystring="programmar"
+print(Mystring.count("r"))
+print(Mystring.find("g"))
+print(Mystring.replace("m","y"))
